@@ -2,10 +2,6 @@
 
 ###Pacman as a Java GUI.
 
-#####Very conservative memory usage (uses bytes, not ints).
-
-#####Pacman.java contains the main method that begins everything.
-
 ###Running Instructions (Commandline for Linux/OSX)
 
 1. Download all files to the same directory
